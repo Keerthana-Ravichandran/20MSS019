@@ -1,4 +1,4 @@
-Setup:
+**Setup**:
 
 Clone the repo and install dependencies.
 Start MongoDB.
