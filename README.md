@@ -1,3 +1,9 @@
+Setup:
+
+Clone the repo and install dependencies.
+Start MongoDB.
+
+
 This endpoint is used to add a new product to the database.
 
 URL: `http://localhost:3000/products`
